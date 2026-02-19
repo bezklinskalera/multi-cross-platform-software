@@ -78,7 +78,7 @@ fun main() {
     frame.add(JLabel("Показник емісії вугілля:"))
     frame.add(resultEmVyg)
 
-    frame.add(JLabel("Валовий викид вугілля:"))
+    frame.add(JLabel("Валовий викид вугілля: "))
     frame.add(resultValVukudVyg)
 
     frame.add(JLabel("Показник емісії мазуту:"))
